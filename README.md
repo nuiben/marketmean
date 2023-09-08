@@ -41,7 +41,7 @@ For Installation of MarketMean on Windows 10/11.
 4. Run marketmean.ipynb. This is where the first read of the “laptops.csv” file is conducted by Pandas, and the dataframe object is construct, and the raw data is processed.
 5. Proceed to Section 2 “Crafting and Training MarketMean”. If your machine has the “joblib” module already installed from Anaconda, your “joblib” import call might be located in “sklearn.externals” or “sklearn.extensions”.
  	- Optionally, if you would like to train a new model, you can uncomment lines 35-40.
-![](figure_x01)
+![](figure_x01.png)
 6. Section 3 Training Performance Results. Load the joblib file with the correct name. Your results will be printed below.
 7. Section 4 Configure your own Laptop:
-![](figure_x02)
+![](figure_x02.png)
