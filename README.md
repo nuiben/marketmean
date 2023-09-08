@@ -44,4 +44,5 @@ For Installation of MarketMean on Windows 10/11.
 ![](figure_x01.png)
 6. Section 3 Training Performance Results. Load the joblib file with the correct name. Your results will be printed below.
 7. Section 4 Configure your own Laptop:
+
 ![](figure_x02.png)
