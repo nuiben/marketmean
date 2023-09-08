@@ -10,6 +10,9 @@ From these two classifications, the model’s preprocessor can interpret categor
 
 ![](figure_a2.png)
 
+Mean Absolute Error (MAE): 
+This metric measures the average of the absolute differences between predicted and actual values. It provides a clear and direct interpretation of how far off our predictions were, on average.
+
 Mean Squared Error (MSE): 
 MSE gives the average of the squared differences between predicted and actual values. It penalizes larger errors more severely than smaller ones, which makes it particularly useful when we want to identify significant discrepancies in predictions.
 
