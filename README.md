@@ -63,7 +63,7 @@
   </ul>
   <br>
   <li>Run marketmean.ipynb.</li>
-  <ul><li>This is where the first read of the “laptops.csv” file is conducted by Pandas, and the dataframe object is construct, and the raw data is processed.</li></ul>
+  <ul><li>This is where the first read of the “laptops.csv” file is conducted by Pandas, and the dataframe object is constructed, and the raw data is processed.</li></ul>
   <li>Proceed to Section 2 “Crafting and Training MarketMean”.</li>
   <ul><li>If your machine has the “joblib” module already installed from Anaconda, your “joblib” import call might be located in “sklearn.externals” or “sklearn.extensions”.</li></ul>
   <br>
